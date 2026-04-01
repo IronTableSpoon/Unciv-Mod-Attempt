@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Bruderschaft der Maga",
+		"leaderName": "Zarathushtra",
+		"adjective": ["mazdayasnan"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Im Nanem Gottes, des Herrn Weisheit: Möge der Widersacher vernichtet werden. Möge Arta siegreich sein!",
+		"startIntroPart2": "Dies ist die Gemeinschaft der Anhänger des Propheten Ahura Mazdas, Asho Zarathuhstra Spitama, eines Airyers, Priester Mazdas. So spricht er: Gutes Denken, gutes Reden, gutes Handeln!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Ihr habt die Kosmische Ordnung, Arta vahishta verletzt! Als Feind der Menschheit müsst ihr befriedet werden! Kehrt euch von eurem Pfad ab und euch wird vergeben!",
+		"attacked": "Möge Mazda euch erleuchten! Wir hingegen werden uns gegen das Böse verteidigen!",
+		"defeated": "Mazda! Verlass uns nicht! Lass dem Geist des Bösen keinen Sieg zukommen!",
+		"introduction": "Im Namen Gottes: Seid gegrüßt, möget ihr gut denken, reden und handeln! Lasst uns gemeinsam Frieden verbreiten auf dieser guten Erde!",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Gruß euch, Geschöpf!",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
@@ -24,7 +24,7 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "Zum Wohlgefallen Mazdas, lasst uns in Frieden leben und so Arta verwirklichen!",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [16,16,16],
